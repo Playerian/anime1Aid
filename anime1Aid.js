@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Anime1 窗口
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Playerian/anime1Aid/blob/master/anime1Aid.js
 // @version      0.1
 // @description  网站影分身之术
 // @author       Philarry
